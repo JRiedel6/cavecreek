@@ -1,0 +1,62 @@
+<html>
+<head>
+<title>Visit Cave Creek</title>
+<link rel="stylesheet" href="cavecreek.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quintessential&display=swap" rel="stylesheet">
+</head>
+
+<style>
+body {
+  background-color: #E9B5FB;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul {list-style-type: none;
+}
+
+li {float: left;
+  padding-bottom: 30px;
+   padding-top: 30px;
+  background: rgba(233, 181, 251, 0.3);
+}
+
+li a {
+  text-decoration: none;
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Quintessential', cursive;
+  font-weight: 900;
+}
+
+.logo {
+  width: 30%;
+  height: 30%;
+}
+
+.picture {
+  height: 50%;
+  width: 50%;
+  display: block;
+}
+</style>
+
+
+<body>
+<ul>
+  <li style="padding-left: 200px;"><a href="history.html">History</a>
+  <li style="padding-left: 100px; padding-right: 0px;"><a href="gethere.html">Getting Here</a>
+    <li><img class="logo" src="https://cavecreekmerchants.com/wp-content/uploads/2015/06/Cave-Creek-Logo-NEW-400x400-300x300.png">
+  <li><a href="attractions">Attractions</a>
+  <li style="padding-left: 100px;"><a href="events.html">Events</a>
+  </ul>
+  
+ <img  class="picture" src="https://bloximages.newyork1.vip.townnews.com/azfamily.com/content/tncms/assets/v3/editorial/1/6f/16fa1fa0-6edf-11e9-a292-6b323371ed56/5cce4d8fe6aae.image.jpg">
+    
+  
+</body>
+
+
+</html>
