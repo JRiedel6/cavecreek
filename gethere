@@ -1,0 +1,131 @@
+<html>
+<head>
+<title>Visit Cave Creek</title>
+<link rel="stylesheet" href="cavecreek.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fondamento:ital@1&family=Quintessential&display=swap" rel="stylesheet">
+</head>
+
+<style>
+body {
+  background-image: url("https://media-cdn.tripadvisor.com/media/photo-s/05/9b/8e/ea/cave-creek-tumbleweed.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul {list-style-type: none;
+}
+
+li {
+  font-family: 'Quintessential', cursive;
+  font-size: 20px;
+  font-weight: 700;
+ float: left;
+  padding-left: 130px;
+  padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: grey;
+  background: rgba(255, 255, 255, 0.3)
+  
+}
+
+li a {
+  text-decoration: none;
+  color: #000000;
+}
+
+img {
+  margin-right: 0px;
+  width: 30%;
+  height: 30%;
+}
+
+.text1 {
+  font-family: 'Fondamento'; cursive;
+  font-size: 50px;
+  font-weight: 900;
+  padding-left: 200px;
+  padding-top: 100px;
+}
+
+.text2 {
+  font-family: 'Fondamento'; cursive;
+  font-size: 50px;
+  font-weight: 900;
+  padding-left: 300px;
+  padding-top: 10px;
+}
+
+body {
+  background-image: url("https://img.sunset02.com/sites/default/files/styles/4_3_horizontal_inbody_900x506/public/image/2016/08/main/cave-creek-spur-cross-stable.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ul {list-style-type: none;
+}
+
+li {
+  font-family: 'Quintessential', cursive;
+  font-size: 20px;
+  font-weight: 700;
+ float: left;
+  padding-left: 130px;
+  padding-bottom: 30px;
+    padding-top: 30px;
+    background-color: grey;
+  background: rgba(255, 255, 255, 0.3)
+  
+}
+
+li a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.text1 {
+  font-family: 'Fondamento'; cursive;
+  font-size: 50px;
+  font-weight: 900;
+  padding-left: 200px;
+  padding-top: 100px;
+}
+
+.paragraph2 {
+  margin-left: 400px;
+  margin-top: 20px;
+  padding: 20px 0px 20px 10px;
+  width: 500px;
+  border-radius: 10px;
+  background-color: white;
+  background: rgba(255, 255, 255, 0.3);
+  word-wrap: break-word;
+  font-weight: bold;
+}
+</style>
+
+
+<body>
+<ul>
+  <li><a href="history.html">History</a>
+  <li><a href="gethere.html">Getting Here</a>
+    <li style="font-size: 30px; padding-top: 20px; padding-left: 100px;">Cave Creek, Arizona
+  <li style="padding-left: 100px;"><a href="attractions">Attractions</a>
+  <li style="padding-right: 120px;"><a href="events.html">Events</a>
+  </ul>
+  
+  <div class="text1">
+  Adventure<br>
+  </div>
+  <div class="text2">awaits...
+  </div>
+
+  <div class="paragraph2">
+    Cave Creek is a quick hour drive from Phoenix Sky Harbor International Airport. <br><br>It is recommended that you rent a car for maximum enjoyment of the town and ease of getting around. <br><br>Accommodations can be found in local hotels (link and link) or AirBnBs.
+  </div>
+  
+</body>
+
+
+</html>
